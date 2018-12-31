@@ -1,0 +1,6 @@
+{
+  "name": "basic-ember",
+  "dependencies": {
+    "materialize": "0.97.6"
+  }
+}
